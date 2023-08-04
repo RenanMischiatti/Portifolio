@@ -515,6 +515,13 @@ body {
   max-width: 100%;
   padding: 0px;
 }
+.text-title {
+  margin: 0px;
+  margin-bottom: 30px;
+}
+#conhecimentos {
+  margin: 0px;
+}
 }
 
 #projetos {
